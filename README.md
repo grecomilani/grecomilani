@@ -20,10 +20,14 @@ Curioso por ciência e tudo que envolve o espaço.
 <p>
   <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white" />
   <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white" />
+  <img alt="Apache Kafka" src="https://img.shields.io/badge/Apache%20Kafka-231F20?logo=apachekafka&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
   <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white" />
   <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  
+
 </p>
 
 ## 📌 Projetos em destaque
