@@ -37,10 +37,9 @@ Curioso por ciência e tudo que envolve o espaço.
 
 > Dica: para fixar projetos no topo do perfil, use **Customize your pins** na página do seu perfil.
 
-## 🧪 Estatísticas (opcional)
-> Substitua `SEU_USUARIO` pela sua conta do GitHub nos links abaixo.
+## 🧪 Estatísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=grecomilani&show_icons=true&hide_title=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=grecomilani&show_icons=true&hide_title=true&include_orgs=true&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grecomilani&layout=compact&size_weight=0.5&count_weight=0.5&langs_count=10&hide=css,html)
 
 ## 🎯 Certificações & objetivos
