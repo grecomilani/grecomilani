@@ -39,8 +39,19 @@ Curioso por ciência e tudo que envolve o espaço.
 
 ## 🧪 Estatísticas
 
-![Stats](https://github-readme-stats.vercel.app/api?username=grecomilani&show_icons=true&hide_title=true&include_orgs=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grecomilani&layout=compact&size_weight=0.5&count_weight=0.5&langs_count=10&hide=css,html)
+<p align="left">
+  <img
+    src="https://grecomilani.vercel.app/api?username=grecomilani&show_icons=true&hide_title=true&include_all_commits=true&count_private=true&include_orgs=true&cache_seconds=3600&theme=github_dark"
+    alt="Stats"
+    height="140"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=grecomilani&layout=compact&size_weight=0.5&count_weight=0.5&langs_count=10&hide=css,html&theme=github_dark"
+    alt="Top Langs"
+    height="170"
+  />
+</p>
+
 
 ## 🎯 Certificações & objetivos
 - ✅ AWS Cloud Practitioner
